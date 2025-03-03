@@ -58,9 +58,9 @@
 </head>
 <body>
     <div class="header">
-        <h1>Moko Wardah Parfum</h1>
-        <p>Jl. Jenderal Sudirman, Kalirejo. Kec. Kalirejo Lampung Tengah</p>
-        <p>Telepon: 0821 9826 9826</p>
+        <h1>Cv Lahminajih Beef</h1>
+        <p>Fajar Agung, Kecamatan Pringsewu, Lampung</p>
+        <p>Telepon: 0812 7485 9677</p>
     </div>
 
     <h2>Data Penjualan</h2>

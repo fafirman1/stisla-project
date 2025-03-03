@@ -1,10 +1,10 @@
 <div class="main-sidebar sidebar-style-2">
     <aside id="sidebar-wrapper">
         <div class="sidebar-brand">
-            <a href="index.html">Moko Wardah Parfum</a>
+            <a href="index.html">Lahminajih Beef</a>
         </div>
         <div class="sidebar-brand sidebar-brand-sm">
-            <a href="index.html">MWP</a>
+            <a href="index.html"></a>
         </div>
         <ul class="sidebar-menu">
             <div class="dropdown-divider"></div>
