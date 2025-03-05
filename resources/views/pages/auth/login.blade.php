@@ -62,7 +62,7 @@
                 {{-- Button --}}
                 <div class="form-group">
                     <button type="submit"
-                        class="btn btn-primary btn-lg btn-block"
+                        class="btn btn-primary btn-lg btn-block" style="border-radius: 30px"
                         tabindex="4">
                         Login
                     </button>

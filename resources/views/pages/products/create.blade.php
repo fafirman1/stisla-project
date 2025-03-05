@@ -71,7 +71,7 @@
                                     @enderror
                             </div>
 
-                            <div class="form-group">
+                            {{-- <div class="form-group">
                                 <label class="form-label">Category</label>
                                 <div class="selectgroup w-100">
                                     <label class="selectgroup-item">
@@ -83,7 +83,7 @@
                                         <span class="selectgroup-button">Sweet</span>
                                     </label>
                                 </div>
-                            </div>
+                            </div> --}}
 
                             <div class="form-group">
                                 <label>Upload Photo Product</label>

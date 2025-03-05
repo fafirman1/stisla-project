@@ -4,7 +4,7 @@
             <a href="index.html">Lahminajih Beef</a>
         </div>
         <div class="sidebar-brand sidebar-brand-sm">
-            <a href="index.html"></a>
+            <a href="index.html">MTR</a>
         </div>
         <ul class="sidebar-menu">
             <div class="dropdown-divider"></div>

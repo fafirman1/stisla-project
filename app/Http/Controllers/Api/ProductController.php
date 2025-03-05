@@ -30,7 +30,7 @@ class ProductController extends Controller
             'name'=>'required|min:3',
             'price'=>'required|integer',
             'stock'=>'required|integer',
-            'category'=>'required|in:Fresh,Sweet',
+            // 'category'=>'required|in:Fresh,Sweet',
             'image'=>'required|image|mimes:png,jpg,jpeg'
         ]);
 
@@ -40,7 +40,7 @@ class ProductController extends Controller
             'name'=>$request->name,
             'price'=>(int) $request->price,
             'stock'=>(int) $request->stock,
-            'category'=>$request->category,
+            // 'category'=>$request->category,
             'image'=>$filename
         ]);
 

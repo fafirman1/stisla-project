@@ -30,7 +30,7 @@ class ProductController extends Controller
             'name'=>'required|min:3|unique:products',
             'price'=>'required|integer',
             'stock'=>'required|integer',
-            'category'=>'required|in:Fresh,Sweet',
+            // 'category'=>'required|in:Fresh,Sweet',
             'image'=>'required|image|mimes:png,jpg,jpeg'
         ]);
 
@@ -43,7 +43,7 @@ class ProductController extends Controller
         $product->name=$request->name;
         $product->price=(int) $request->price;
         $product->stock=(int) $request->stock;
-        $product->category=$request->category;
+        // $product->category=$request->category;
         $product->image= $filename;
         $product->save();
 

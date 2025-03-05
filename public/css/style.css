@@ -199,6 +199,7 @@ select.form-control:not([size]):not([multiple]),
   font-size: 14px;
   padding: 10px 15px;
   height: 42px;
+  border-radius: 30px;
 }
 
 textarea.form-control {
@@ -727,7 +728,7 @@ select.form-control:not([size]):not([multiple]) {
 .card {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.03);
   background-color: #fff;
-  border-radius: 3px;
+  border-radius: 30px;
   border: none;
   position: relative;
   margin-bottom: 30px;

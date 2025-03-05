@@ -63,7 +63,7 @@
                                         <tr>
                                             <th>Image</th>
                                             <th>Name</th>
-                                            <th>Category</th>
+                                            {{-- <th>Category</th> --}}
                                             <th>Stock</th>
                                             <th>Price</th>
                                             <th>Action</th>
@@ -81,9 +81,9 @@
                                             <td>
                                                 {{$product->name}}
                                             </td>
-                                            <td>
+                                            {{-- <td>
                                                 {{$product->category}}
-                                            </td>
+                                            </td> --}}
                                             <td>
                                                 {{$product->stock}}
                                             </td>

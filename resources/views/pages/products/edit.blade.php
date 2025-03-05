@@ -68,21 +68,18 @@
                                     <input type="number" class="form-control" name="price" value="{{$product->price}}">
                                 </div>
 
-                                    <div class="form-group">
-                                        <label class="form-label">Category</label>
-                                        <div class="selectgroup w-100">
-                                            <label class="selectgroup-item">
-                                                <input type="radio" name="category" value="Fresh" class="selectgroup-input"
-                                                @if ($product->category=='Fresh') checked @endif>
-                                                <span class="selectgroup-button">Fresh</span>
-                                            </label>
-                                            <label class="selectgroup-item">
-                                                <input type="radio" name="category" value="Sweet" class="selectgroup-input"
-                                                @if ($product->category=='Sweet') checked @endif>
-                                                <span class="selectgroup-button">Frozen</span>
-                                            </label>
-                                        </div>
+                                {{-- <div class="form-group">
+                                    <label>Upload Photo Product</label>
+                                    <div class="col-sm-9">
+                                        <input type="file" class="form-control" name="image"
+                                            @error('image') is-invalid @enderror>
+                                            @error('image')
+                                            <div class="invalid-feedback">
+                                                {{$message}}
+                                            </div>
+                                            @enderror
                                     </div>
+                                </div> --}}
 
                                     <div class="card-footer text-right">
                                         <button class="btn btn-primary">Save</button>
