@@ -58,9 +58,9 @@
 </head>
 <body>
     <div class="header">
-        <h1>Cv Lahminajih Beef</h1>
-        <p>Fajar Agung, Kecamatan Pringsewu, Lampung</p>
-        <p>Telepon: 0812 7485 9677</p>
+        <h1>Rooftop Cafe' & Resto</h1>
+        <p>BBC Hotel Lampung</p>
+        <p>Jl. Proklamator Raya, Bandar Jaya</p>
     </div>
 
     <h2>Data Penjualan</h2>
